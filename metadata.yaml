@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39070
     wikipedia: http://en.wikipedia.org/wiki/Frank_Parsons
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37795#The-World-s-Best-Books---A-Key-to-the-Treasures-of-Literature
 gutenberg_issued: '2011-10-19'
 gutenberg_type: Text
 identifiers:
